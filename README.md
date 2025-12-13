@@ -8,4 +8,9 @@ Yalo helps companies sell more and build stronger customer relationships by auto
 
 ## 👨‍💻 The Role: Senior Technical Product Manager
 
+On February 2022 I joined Yalo as a Sr. Technical Product Manager for their Core Services, after successfully completing a number of infrastructure related initiatives I transitioned to be the platform's commerce Product Manager.
+
+As a Commerce Product Manager I managed the Store Front that drove sales through messaging applications, i.e. Whatsapp. The image below depicts a mobile web-based store front.
+
+
 
