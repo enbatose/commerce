@@ -15,10 +15,10 @@ As a Commerce Product Manager I managed the Store Front that drove sales through
 <center>
   <table border="0" width="600">
     <tr>
-      <td width="50%" align="center">
+      <td width="30%" align="center">
         <img src="/media/mobile_storefront.png" alt="Storefront 1" width="280">
       </td>
-      <td width="50%" align="center">
+      <td width="30%" align="center">
         <img src="/media/mobile_storefront_2.png" alt="Storefront 2" width="280">
       </td>
     </tr>
