@@ -10,7 +10,7 @@ Yalo helps companies sell more and build stronger customer relationships by auto
 
 On February 2022 I joined Yalo as a Sr. Technical Product Manager for their Core Services, after successfully completing a number of infrastructure related initiatives I transitioned to be the platform's commerce Product Manager.
 
-As a Commerce Product Manager I managed the Store Front that drove sales through messaging applications, i.e. Whatsapp. The image below depicts a mobile web-based store front.
+As a Commerce Product Manager I managed the Store Front that drove sales through messaging applications, i.e. Whatsapp. The images below depicts a mobile web-based store front.
 
 <center>
   <table border="0" width="600">
@@ -25,6 +25,12 @@ As a Commerce Product Manager I managed the Store Front that drove sales through
   </table>
 </center>
 
-## 👨‍💻 The Role: Senior Technical Product Manager
+## 🤖 AI Project: Building the Machine Learning recommendation system
+
+The following sections describe the steps followed in the framework of the CRISP-DM project management schema for AI initiatives.
+
+### Understanding the Business
+
+The **definition of the problem** included aspects such as
 
 
