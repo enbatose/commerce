@@ -14,13 +14,11 @@ As a Commerce Product Manager I managed the Store Front that drove sales through
 
 <table style="width: 100%; border: none;">
   <tr>
-    <td style="width: 50%; text-align: center; border: none;">
+    <td style="width: 25%; text-align: center; border: none;">
       <img src="/media/mobile_storefront.png" alt="Storefront 1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-      <p style="text-align: center; margin-top: 5px;">Storefront 1</p>
     </td>
-    <td style="width: 50%; text-align: center; border: none;">
+    <td style="width: 25%; text-align: center; border: none;">
       <img src="/media/mobile_storefront_2.png" alt="Storefront 2" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-      <p style="text-align: center; margin-top: 5px;">Storefront 2</p>
     </td>
   </tr>
 </table>
