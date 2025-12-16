@@ -12,13 +12,13 @@ On February 2022 I joined Yalo as a Sr. Technical Product Manager for their Core
 
 As a Commerce Product Manager I managed the Store Front that drove sales through messaging applications, i.e. Whatsapp. The image below depicts a mobile web-based store front.
 
-<table style="width: 100%; border: none;">
+<table style="width: 50%;text-align: center; border: none;">
   <tr>
     <td style="width: 25%; text-align: center; border: none;">
-      <img src="/media/mobile_storefront.png" alt="Storefront 1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+      <img src="/media/mobile_storefront.png" alt="Storefront 1" style="max-width: 50%; height: auto; display: block; margin: 0 auto;">
     </td>
     <td style="width: 25%; text-align: center; border: none;">
-      <img src="/media/mobile_storefront_2.png" alt="Storefront 2" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+      <img src="/media/mobile_storefront_2.png" alt="Storefront 2" style="max-width: 50%; height: auto; display: block; margin: 0 auto;">
     </td>
   </tr>
 </table>
