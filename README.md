@@ -31,6 +31,18 @@ The following sections describe the steps followed in the framework of the CRISP
 
 ### Understanding the Business
 
-The **definition of the problem** included aspects such as
+The **definition of the problem**; the target users are corner shop owners that utilize Yalo's conversational commerce over whatsapp and Yalo's web storefront to purchase inventory to resupply their stores with a vendor's specific product, e.g. Chocolates from Nestlé or Mondelez.
+
+The opportunity being exploited was manifold, (1) Present different product to Store Owners that they have not previously bought but are popular for other store owners in the area (Cross-selling), (2) Remind Store Owners of products they regularly buy but might have forgotten to add to the cart in any given occasion, (3) Suggest better value deals for specific product packages, e.g. a 12 piece pack over a 2 piece pack of a product (Up-selling), (4) Introduce net new products from the vendor (Cold-Start).
+
+The main value proposition resides in the strategy for increasing the average ticket value while helping Store Owners receive a better product mix that will be profitable for them. The current way the Store Owners address the same points are by being requested directly by final customers on specific products they intend to buy, nonetheless, few customers are vocal about a product they didn't find. Further, for net new products or better value pack options, a direct sales person interacts few minutes each week with the Sales Owner, risking missing all the updates. Hence, consolidating the highlights with intelligent product recommendations it's a great opportunity.
+
+The success of the initiative as measured in Average Ticket Value for each purchase, e.g. Increased from ABC to XYZ. Similarly, for net new products, tracking the adoption in sales over time.
+
+### Data Understanding
+
+The
+
+
 
 
