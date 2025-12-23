@@ -41,7 +41,16 @@ The success of the initiative as measured in Average Ticket Value for each purch
 
 ### Data Understanding
 
-The
+The datasets considered were curated for the following purposes:
+
+1. Store Owner historical Purchases
+2. Assortment of Products by Store Owner eligibility (E.g. What subset of products are eligible for Store Owner A, that might be different from Store Owner B).
+3. Product Attributes, e.g. Category, Packaging Hierarchy (Next/Previous in Size), Short Description, Long Description, Price, New Product Flag, etc.
+
+
+
+
+
 
 
 
