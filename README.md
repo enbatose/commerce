@@ -45,7 +45,17 @@ The datasets considered were curated for the following purposes:
 
 1. Store Owner historical Purchases
 2. Assortment of Products by Store Owner eligibility (E.g. What subset of products are eligible for Store Owner A, that might be different from Store Owner B).
-3. Product Attributes, e.g. Category, Packaging Hierarchy (Next/Previous in Size), Short Description, Long Description, Price, New Product Flag, etc.
+3. Product Attributes, e.g. Category, Packaging Hierarchy (Next/Previous in Size), Short Description, Long Description, Recommended Sell Price, Purchase Cost, New Product Flag, etc.
+
+The following subsections explore in depth the data pipeline experience.
+
+## Gather Data
+
+As described on the Business Understanding section, different models were sought as part of this initiative, each requiring a different dataset to build a model or heuristics logic. The three datasets described above contained all the information needed to model the product recommendations. 
+
+The Data Pipeline created for the data sets mentioned required building middleware integrations with an ERP system to obtain information on the Product Data and consolidate it on Yalo's system. Optionally, the model could use orders placed previously using other CRM systems, or leverage only orders existing on Yalo's system, as the Cold Start problem had been addressed, this didn't represent an issue, unless the B2B customer stated a fixed preference.
+
+
 
 
 
