@@ -55,6 +55,13 @@ As described on the Business Understanding section, different models were sought
 
 The Data Pipeline created for the data sets mentioned required building middleware integrations with an ERP system to obtain information on the Product Data and consolidate it on Yalo's system. Optionally, the model could use orders placed previously using other CRM systems, or leverage only orders existing on Yalo's system, as the Cold Start problem had been addressed, this didn't represent an issue, unless the B2B customer stated a fixed preference.
 
+## Validate Data
+
+• Quality control data
+• Resolve data issues –
+missing, erroneous,
+outliers
+
 
 
 
