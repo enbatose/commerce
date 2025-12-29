@@ -63,6 +63,9 @@ The data cleansing process included validations for integrity and null values. T
 
 ### Explore the Data
 
+On the following chart below a heatmap created from the utility matrix (user item matrix) analyzing the implicit binary relationship between Store Owners and products is shown.
+
+![Utility Matrix Heatmap](/media/utility_matrix_heatmap.png)
 
 • Statistical analysis and
 visualization
