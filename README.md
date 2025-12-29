@@ -64,6 +64,12 @@ The data cleansing process included validations for integrity and null values. T
 ### Explore the Data
 
 
+• Statistical analysis and
+visualization
+• Dimensionality
+reduction
+• Identify relationships
+& patterns
 
 
 
