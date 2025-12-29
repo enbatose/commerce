@@ -1,12 +1,12 @@
 <h1>Product Recommendations at Yalo</h1>
 
-## 🏢 The Company: Yalo - Conversational Commerce
+# 🏢 The Company: Yalo - Conversational Commerce
 
 Yalo is an intelligent sales platform powered by Intelligent Agents.
 
 Yalo helps companies sell more and build stronger customer relationships by automating personalized sales across WhatsApp, apps, voice, and more.
 
-## 👨‍💻 The Role: Senior Technical Product Manager
+# 👨‍💻 The Role: Senior Technical Product Manager
 
 On February 2022 I joined Yalo as a Sr. Technical Product Manager for their Core Services, after successfully completing a number of infrastructure related initiatives I transitioned to be the platform's commerce Product Manager.
 
@@ -25,11 +25,11 @@ As a Commerce Product Manager I managed the Store Front that drove sales through
   </table>
 </center>
 
-## 🤖 AI Project: Building the Machine Learning recommendation system
+# 🤖 AI Project: Building the Machine Learning recommendation system
 
 The following sections describe the steps followed in the framework of the CRISP-DM project management schema for AI initiatives.
 
-## Understanding the Business
+## Understanding the Business 💵
 
 The **definition of the problem**; the target users are corner shop owners that utilize Yalo's conversational commerce over whatsapp and Yalo's web storefront to purchase inventory to resupply their stores with a vendor's specific product, e.g. Chocolates from Nestlé or Mondelez.
 
@@ -39,7 +39,7 @@ The main value proposition resides in the strategy for increasing the average ti
 
 The success of the initiative as measured in Average Ticket Value for each purchase, e.g. Increased from ABC to XYZ. Similarly, for net new products, tracking the adoption in sales over time.
 
-## Data Understanding
+## Data Understanding 🧮
 
 The datasets considered were curated for the following purposes:
 
@@ -57,10 +57,9 @@ The Data Pipeline created for the data sets mentioned required building middlewa
 
 ### Validate Data
 
-• Quality control data
-• Resolve data issues –
-missing, erroneous,
-outliers
+The data cleansing process included validations for integrity and null values. The major gaps in the data were on the Assortment of Products by Store Owner eligibility. Namely, the continuous addition of new Store Owners, being Corner-Stores the main B2B customers, as well as logistics challenges required to dynamically disable certain products to certain stores based on city areas as geo-fenced by Postal Code ranges.
+
+### Explore the Data
 
 
 
