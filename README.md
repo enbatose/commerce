@@ -1,5 +1,7 @@
 <h1>Product Recommendations at Yalo</h1>
 
+![Yalo Logo](/media/yalo_logo.png)
+
 # 🏢 The Company: Yalo - Conversational Commerce
 
 Yalo is an intelligent sales platform powered by Intelligent Agents.
