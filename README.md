@@ -29,7 +29,7 @@ As a Commerce Product Manager I managed the Store Front that drove sales through
 
 The following sections describe the steps followed in the framework of the CRISP-DM project management schema for AI initiatives.
 
-### Understanding the Business
+## Understanding the Business
 
 The **definition of the problem**; the target users are corner shop owners that utilize Yalo's conversational commerce over whatsapp and Yalo's web storefront to purchase inventory to resupply their stores with a vendor's specific product, e.g. Chocolates from Nestlé or Mondelez.
 
@@ -39,7 +39,7 @@ The main value proposition resides in the strategy for increasing the average ti
 
 The success of the initiative as measured in Average Ticket Value for each purchase, e.g. Increased from ABC to XYZ. Similarly, for net new products, tracking the adoption in sales over time.
 
-### Data Understanding
+## Data Understanding
 
 The datasets considered were curated for the following purposes:
 
@@ -49,13 +49,13 @@ The datasets considered were curated for the following purposes:
 
 The following subsections explore in depth the data pipeline experience.
 
-## Gather Data
+### Gather Data
 
 As described on the Business Understanding section, different models were sought as part of this initiative, each requiring a different dataset to build a model or heuristics logic. The three datasets described above contained all the information needed to model the product recommendations. 
 
 The Data Pipeline created for the data sets mentioned required building middleware integrations with an ERP system to obtain information on the Product Data and consolidate it on Yalo's system. Optionally, the model could use orders placed previously using other CRM systems, or leverage only orders existing on Yalo's system, as the Cold Start problem had been addressed, this didn't represent an issue, unless the B2B customer stated a fixed preference.
 
-## Validate Data
+### Validate Data
 
 • Quality control data
 • Resolve data issues –
